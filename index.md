@@ -4,14 +4,12 @@
 
 ### Business Venture: Sharelab Limited
 
-<a href="https://sharelab.com/" target="_blank">sharelab.com</a>
+<a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
 <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/>
 
 Founder
 
-Development of: Data scripts (in R), UX design, all contents.
-
-Online platform for comparison of US equities in terms of academically-researched firm characteristics. **Only accessible from desktop computers.**
+Compare US equities in terms of academically-researched firm characteristics. **Access from desktop computers only.**
 
 ---
 
@@ -39,4 +37,4 @@ Online platform for comparison of US equities in terms of academically-researche
 
 
 ---
-<p style="font-size:11px">Contact: forked from <a href="c.satzky@gmail.com">c.satzky@gmail.com</a></p>
+<p style="font-size:11px">Contact: <a href="mailto:c.satzky@gmail.com">c.satzky@gmail.com</a></p>
