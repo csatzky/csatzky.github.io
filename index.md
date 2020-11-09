@@ -4,7 +4,7 @@
 
 ### Business Venture: Sharelab Limited
 
-[sharelab](https://sharelab.com/)
+<a href="https://sharelab.com/" target="_blank">sharelab.com</a>
 <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/>
 
 Founder
