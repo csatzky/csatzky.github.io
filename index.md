@@ -7,9 +7,9 @@
 <a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
 <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/>
 
-Founder
+Founder, R Developer
 
-Compare US equities in terms of academically-researched firm characteristics. **Access from desktop computers only.**
+Sharelab is a platform to analyze and compare US equities in terms of academically-researched firm characteristics. **Access from desktop computers only.**
 
 ---
 
