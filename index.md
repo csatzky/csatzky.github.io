@@ -20,14 +20,16 @@
 
 Founder, Developer
 
-Sharelab is a platform to analyze and compare US equities in terms of academically-researched firm characteristics. **Access from desktop computers only.**
+Sharelab is a platform to analyze and compare US equities in terms of academically-researched firm characteristics. _Access from desktop computers only._
 
 ---
 
-### Financial Research
-[Forecasting EUR/USD Volatility Using Supervised Learning (2020, PDF Version)](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf)
+### Forecasting EUR/USD Volatility Using Supervised Learning
+[PDF Version, 2020)](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf)
 
 [GitHub repository](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning)
+
+<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true"/>
 
 **Conclusion** (pp. 19-20):
 
@@ -39,8 +41,6 @@ _When it comes to predicting financial volatility,_
 _The self-developed linear weekday effect model improves over the HAR-RV model by @har. Most importantly, the weekday effect model performs _second best_ at predicting volatility during normal and crisis times, respectively. In addition, this model is simple to train using least squares estimation. The absence of any tuning parameters and the apparent robustness across market conditions makes this model a well-suited candidate for applications in practice._
 
 _As a side note, the general autoregressive model of conditional heteroskedascity (GARCH) by @garch is shown to perform worst of all models considered. For more detail, please refer to the Appendix 2: GARCH(1,1) Volatility Forecast._
-
-<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
