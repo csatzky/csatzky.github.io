@@ -9,7 +9,7 @@
 img { width: 50%}
 </style>
 <figure class="svgimg">
-   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com">
+   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com" style="float:left">
 </figure>
 <!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> -->
 
