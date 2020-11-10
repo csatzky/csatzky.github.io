@@ -25,7 +25,9 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 ---
 
 ### Financial Research
-[Forecasting EUR/USD Volatility Using Supervised Learning (2020, PDF Version)](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf), [GitHub repository](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning)
+[Forecasting EUR/USD Volatility Using Supervised Learning (2020, PDF Version)](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf)
+
+[GitHub repository](https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning)
 
 **Conclusion** (pp. 19-20):
 
