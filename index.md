@@ -6,10 +6,12 @@
 
 <a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
 <style>
-img { width: 50%}
+img { width: 75%}
 </style>
 <figure class="svgimg">
-   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com" style="float:left">
+   <a href="https://pe.sharelab.com/" target="_blank">
+   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com">
+   </a>
 </figure>
 <!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> -->
 
