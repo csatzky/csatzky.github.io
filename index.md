@@ -6,13 +6,16 @@
 
 <a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
 <style>
-img { width: 75%}
+.center75 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 75%;
+   }
 </style>
-<figure class="svgimg">
-   <a href="https://pe.sharelab.com/" target="_blank">
-   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com">
-   </a>
-</figure>
+<a href="https://pe.sharelab.com/" target="_blank">
+<img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com" class="center75">
+</a>
 <!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> -->
 
 Founder, Developer
