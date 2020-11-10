@@ -5,7 +5,13 @@
 ### Business Venture: Sharelab Limited
 
 <a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
-<img src="https://sharelab.com/static/svg/sharelab_logo.svg"/>
+<style>
+img { width: 50%}
+</style>
+<figure class="svgimg">
+   <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com">
+</figure>
+<!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> -->
 
 Founder, Developer
 
