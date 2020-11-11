@@ -1,4 +1,8 @@
-## Projects
+<head>
+<title>Projects by Christian Satzky</title>
+</head>
+
+## Summary of Projects
 
 ---
 
