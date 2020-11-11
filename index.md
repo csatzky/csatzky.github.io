@@ -1,4 +1,4 @@
-## Summary of Projects
+## Projects
 
 ---
 
