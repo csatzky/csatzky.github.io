@@ -1,4 +1,4 @@
-## Private Projects
+## Projects
 
 ---
 
@@ -33,30 +33,30 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 
 **Conclusion** (pp. 19-20):
 
-_When it comes to predicting financial volatility,_
+"_When it comes to predicting financial volatility,_
 
-1. _During 'normal' times, the support vector machine algorithm with linear kernel performs best. This is confirmed by two out-of-sample datasets: The `test` set's and `validation` _pre-crisis_ period's RMSE_
-2. _During periods of severe market turmoil, the gradient boosted tree algorithm performs best. This is confirmed by investigating the out-of-sample `validation` set which is heavily impacted by the Covid-19 pandemic crisis_
+1. _During 'normal' times, the support vector machine algorithm with linear kernel performs best. This is confirmed on two out-of-sample datasets: The `test` set and the `validation` set's pre-crisis period_
+2. _During periods of market turmoil, the gradient boosted tree algorithm performs best. This is confirmed by investigating the out-of-sample `validation` set which is heavily impacted by the Covid-19 pandemic from March 2020 onward_
 
-_The self-developed linear weekday effect model improves over the HAR-RV model by @har. Most importantly, the weekday effect model performs _second best_ at predicting volatility during normal and crisis times, respectively. In addition, this model is simple to train using least squares estimation. The absence of any tuning parameters and the apparent robustness across market conditions makes this model a well-suited candidate for applications in practice._
+_The self-developed linear weekday effect model improves over the HAR-RV model by Corsi (2009). It performs second best at predicting volatility during 'normal' and 'crisis' times, respectively. The absence of any tuning parameters and the apparent robustness across market conditions makes this model a well-suited candidate for applications in practice._
 
-_As a side note, the general autoregressive model of conditional heteroskedascity (GARCH) by @garch is shown to perform worst of all models considered. For more detail, please refer to the Appendix 2: GARCH(1,1) Volatility Forecast._
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_Noteworthy, in the appendix, it is found that the industry-prevalent GARCH(1,1) model is outperformed by all models considered._"
 
 ---
-
-### Miscellaneous Data Science Projects
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!-- [Project 3 Title](http://example.com/) -->
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
+
+<!-- ### Miscellaneous Data Science Projects -->
+
+<!--- [Project 1 Title](http://example.com/) -->
+<!--- [Project 2 Title](http://example.com/) -->
+<!--- [Project 3 Title](http://example.com/) -->
+<!--- [Project 4 Title](http://example.com/) -->
+<!--- [Project 5 Title](http://example.com/) -->
+
+<!-- ---
 
 
 
