@@ -1,4 +1,4 @@
-## R / Python Projects
+## Projects
 
 ---
 
