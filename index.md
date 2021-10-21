@@ -6,7 +6,7 @@
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-market-timing-regression-results.png?raw=true" class="center"/>
+<img src="images/silver-market-timing-regression-results.png?raw=true" class="center75"/>
 
 **Conclusion** (excerpt, p. 11):
 
