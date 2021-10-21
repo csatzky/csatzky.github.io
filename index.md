@@ -2,6 +2,24 @@
 
 ---
 
+### Asian and European Option Specifics–Pricing, Estimation, and Comparison Using R
+
+— 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
+
+<img src="images/simulating-stock-prices-plot.png?raw=true" class="center"/>
+
+**Conclusion** (excerpt, p. 18):
+
+"_In this paper, I propose methods to estimate vanilla and exotic options’ prices and probability of exercise using Monte Carlo simulation in R. The computational efficiency of these methods relies on;_
+
+1. _Usage of vectorization, and_
+2. _Recycling of the simulated geometric Brownian motion paths._ 
+ 
+_(...)_
+
+_In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise._"
+---
+
 ### Silver Commodity Market-Timing–A Simple Macroeconomic Model
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
