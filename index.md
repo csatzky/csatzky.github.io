@@ -6,7 +6,7 @@
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-market-timing-regression-results.png?raw=true" class="center75"/>
+<img src="images/silver-market-timing-regression-results.png?raw=true" class="center"/>
 
 In this article, I develop a macroeconomic 'fair-value' indicator. This indicator conveniently absorbs statistically significant information that impacts the silver spot price.
 
@@ -58,7 +58,7 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 
 <!--<a href="https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf" target="_blank">browser link</a> -->
 
-<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true" class="center75"/>
+<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true"/>
 
 **Conclusion** (excerpt, pp. 19-20):
 
