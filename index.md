@@ -10,11 +10,11 @@
 
 **Abstract** (excerpt, p. 3):
 
-"_ In this study, I am deriving explicit and implicit investment hypotheses from the Capital Asset Pricing Model (Sharpe, 1964), the Fama and French 5 Factor Model (Fama and French, 1993), and common price multiples. I empirically investigate the credibility of these investment beliefs using data from S&P 500® constituents from January 2010 to December 2020. The significance of each investment hypothesis is assessed by two methods of statistical evaluation._"
+"_In this study, I am deriving explicit and implicit investment hypotheses from the Capital Asset Pricing Model (Sharpe, 1964), the Fama and French 5 Factor Model (Fama and French, 1993), and common price multiples. I empirically investigate the credibility of these investment beliefs using data from S&P 500® constituents from January 2010 to December 2020. The significance of each investment hypothesis is assessed by two methods of statistical evaluation._"
 
 **Conclusion** (excerpt, p. 32):
 
-"_(...) This research found credible statistical evidence in support of the “high GrowthSpread® outperforms low GrowthSpread®”-hypothesis. There is no statistical evidence in favor of any of the remaining eight hypotheses under investigation. When it comes to one-directional portfolios, I found evidence in support of the following statements:
+"_(...) This research found credible statistical evidence in support of the “high GrowthSpread® outperforms low GrowthSpread®”-hypothesis. There is no statistical evidence in favor of any of the remaining eight hypotheses under investigation. When it comes to one-directional portfolios, I found evidence in support of the following statements:_
 
 1. _The high GrowthSpread® portfolio significantly outperforms portfolios drawn at random;_
 2. _The low GrowthSpread® portfolio significantly underperforms portfolios drawn at random;_
