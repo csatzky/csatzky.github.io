@@ -8,7 +8,7 @@
 
 <img src="images/silver-market-timing-regression-results.png?raw=true" class="center75"/>
 
-In this article, I develop a macroeconomic 'fair-value' indicator $I^S_t$. This indicator conveniently absorbs statistically significant information impacting the silver spot price.
+In this article, I develop a macroeconomic 'fair-value' indicator. This indicator conveniently absorbs statistically significant information that impacts the silver spot price.
 
 **Conclusion** (excerpt, p. 11):
 
