@@ -2,6 +2,30 @@
 
 ---
 
+### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500® Constituents from 2010–2020
+
+— 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
+
+<img src="images/beta-portfolios-performance-plot.png?raw=true" class="center"/>
+
+**Abstract** (excerpt, p. 3):
+
+"_ In this study, I am deriving explicit and implicit investment hypotheses from the Capital Asset Pricing Model (Sharpe, 1964), the Fama and French 5 Factor Model (Fama and French, 1993), and common price multiples. I empirically investigate the credibility of these investment beliefs using data from S&P 500® constituents from January 2010 to December 2020. The significance of each investment hypothesis is assessed by two methods of statistical evaluation._"
+
+**Conclusion** (excerpt, p. 32):
+
+"_(...) This research found credible statistical evidence in support of the “high GrowthSpread® outperforms low GrowthSpread®”-hypothesis. There is no statistical evidence in favor of any of the remaining eight hypotheses under investigation. When it comes to one-directional portfolios, I found evidence in support of the following statements:
+
+1. _The high GrowthSpread® portfolio significantly outperforms portfolios drawn at random;_
+2. _The low GrowthSpread® portfolio significantly underperforms portfolios drawn at random;_
+3. _The low Price-to-Cash Flow portfolio significantly underperforms portfolios drawn at random;_
+4. _The low Profitability portfolio significantly underperforms portfolios drawn at random;_
+5. _The low Beta portfolio significantly underperforms portfolios drawn at random._
+
+_Noteworthy, the small Size portfolio (i.e. low Market Capitalization) ranked in the 88.55th percentile in comparison to 100,000 portfolios drawn it random. The cut-off point for statistical significance is set at Px ≥ P90. Yet, out of 100 portfolios drawn at random, the low Market Capitalization portfolio, on average, outperforms 88 portfolios._"
+
+---
+
 ### Asian and European Option Specifics–Pricing, Estimation, and Comparison Using R
 
 — 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
