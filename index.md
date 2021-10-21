@@ -37,9 +37,7 @@ _Noteworthy, the small Size portfolio (i.e. low Market Capitalization) ranked in
 "_In this paper, I propose methods to estimate vanilla and exotic options’ prices and probability of exercise using Monte Carlo simulation in R. The computational efficiency of these methods relies on;_
 
 1. _Usage of vectorization, and_
-2. _Recycling of the simulated geometric Brownian motion paths._ 
- 
-_(...)_
+2. _Recycling of the simulated geometric Brownian motion paths._
 
 _In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise._"
 
