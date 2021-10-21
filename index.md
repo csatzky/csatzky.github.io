@@ -6,7 +6,7 @@
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-market-timing-regression-results.png?raw=true"/>
+<img src="images/silver-market-timing-regression-results.png?raw=true" class="center"/>
 
 **Conclusion** (excerpt, p. 11):
 
@@ -56,7 +56,7 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 
 <!--<a href="https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf" target="_blank">browser link</a> -->
 
-<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true"/>
+<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true", class="center"/>
 
 **Conclusion** (excerpt, pp. 19-20):
 
