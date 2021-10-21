@@ -8,6 +8,8 @@
 
 <img src="images/silver-market-timing-regression-results.png?raw=true" class="center75"/>
 
+In this article, I develop a macroeconomic 'fair-value' indicator $I^S_t$. This indicator conveniently absorbs statistically significant information impacting the silver spot price.
+
 **Conclusion** (excerpt, p. 11):
 
 "_(...) empirical analysis suggests that the silver spot price is roughly twice as sensitive to changes in USD expected inflation than it is to changes in the 10-year U.S. Treasury rate. When it comes to market-timing, it can be concluded the following:_
@@ -20,11 +22,11 @@ _A Strong Bullish XAG/USD Case:_
 * _A decrease in trust in cryptocurrency._
 
 _A Strong Bearish XAG/USD Case:_
-* _A silver indicator value I ≤ -10,
-* _A decrease in inflation beyond the expected change in future inflation,
-* _A future increase in the long-term risk-free rate,
-* _A decrease in demand for silver as a resource for production,
-* _A continued increase in trust and acceptance in cryptocurrency._
+* _A silver indicator value I ≤ -10,_
+* _A decrease in inflation beyond the expected change in future inflation,_
+* _A future increase in the long-term risk-free rate,_
+* _A decrease in demand for silver as a resource for production,_
+* _A continued increase in trust and acceptance in cryptocurrency._"
 
 ---
 
