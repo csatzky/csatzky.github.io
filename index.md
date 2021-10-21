@@ -18,6 +18,7 @@
 _(...)_
 
 _In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise._"
+
 ---
 
 ### Silver Commodity Market-Timing–A Simple Macroeconomic Model
