@@ -4,7 +4,7 @@
 
 ### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500® Constituents from 2010–2020
 
-— 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
+— 2021, ~~PDF version~~, ~~GitHub respository~~.<!--[PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.-->
 
 <img src="images/beta-portfolios-performance-plot.png?raw=true" class="center"/>
 
@@ -26,7 +26,7 @@ _Noteworthy, the small Size portfolio (i.e. low Market Capitalization) ranked in
 
 ---
 
-### Asian and European Option Specifics–Pricing, Estimation, and Comparison Using R
+### Asian and European Option Specifics–Pricing, Estimation, and Comparison in R
 
 — 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
 
