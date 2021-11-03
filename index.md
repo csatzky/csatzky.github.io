@@ -4,7 +4,7 @@
 
 ### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500® Constituents from 2010–2020
 
-— 2021, ~~PDF version~~, ~~GitHub respository~~.<!--[PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.-->
+— 2021, Currently Non-Public.<!--[PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.-->
 
 <img src="images/beta-portfolios-performance-plot.png?raw=true" class="center"/>
 
@@ -18,11 +18,9 @@
 
 1. _The high GrowthSpread® portfolio significantly outperforms portfolios drawn at random;_
 2. _The low GrowthSpread® portfolio significantly underperforms portfolios drawn at random;_
-3. _The low Price-to-Cash Flow portfolio significantly underperforms portfolios drawn at random;_
-4. _The low Profitability portfolio significantly underperforms portfolios drawn at random;_
-5. _The low Beta portfolio significantly underperforms portfolios drawn at random._
+3. _The low Price-to-Cash Flow portfolio significantly underperforms portfolios drawn at random._
 
-_Noteworthy, the small Size portfolio (i.e. low Market Capitalization) ranked in the 88.55th percentile in comparison to 100,000 portfolios drawn it random. The cut-off point for statistical significance is set at Px ≥ P90. Yet, out of 100 portfolios drawn at random, the low Market Capitalization portfolio, on average, outperforms 88 portfolios._"
+_Noteworthy, there is some, but insignificant evidence in support of the low Profitability, high Profitability, small Size, and low Beta portfolios._"
 
 ---
 
