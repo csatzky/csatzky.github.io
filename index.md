@@ -6,8 +6,6 @@
 
 — 2022-2023, <a href="https://qsheets.io/" target="_blank">QSheets.io</a>.
 
-QSheets I/O is a platform to generate most-recent US public equity PDF reports, summarizing comparable company fundamentals along with Nasdaq-100 percentiles.
-
 <style>
 .center75 {
    display: block;
@@ -19,6 +17,8 @@ QSheets I/O is a platform to generate most-recent US public equity PDF reports, 
 <a href="https://qsheets.io/" target="_blank">
 <img src="https://sharelab.shinyapps.io/qsheets/_w_fd12a035/qsheets-logo.svg" alt="qsheets.io" class="center75">
 </a>
+
+QSheets I/O is a platform to generate most-recent US public equity PDF reports, summarizing comparable company fundamentals along with Nasdaq-100 percentiles.
 
 ***Technologies***
 * R, RShiny
