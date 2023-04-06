@@ -21,8 +21,8 @@ QSheets I/O is a platform to generate most-recent US public equity PDF reports, 
 </a>
 
 ***Technologies***
+* R, RShiny
 * HTML, CSS, JavaScript
-* R and RShiny
 
 Founder, Developer
 
