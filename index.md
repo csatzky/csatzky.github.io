@@ -11,7 +11,7 @@
    display: block;
    /*margin-left: auto;
    margin-right: auto;*/
-   width: 75%;
+   width: 50%;
    }
 </style>
 <a href="https://qsheets.io/" target="_blank">
