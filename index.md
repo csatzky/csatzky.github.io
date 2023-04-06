@@ -4,7 +4,7 @@
 
 ### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500® Constituents from 2010–2020
 
-— 2021, Currently Non-Public.<!--[PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/main/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.-->
+— 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/cfe7dc0bd5d7cf46443e1ad11f913fc7f44d3abb/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
 
 <img src="images/beta-portfolios-performance-plot.png?raw=true" class="center"/>
 
