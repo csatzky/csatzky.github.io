@@ -9,8 +9,8 @@
 <style>
 .center75 {
    display: block;
-   margin-left: auto;
-   margin-right: auto;
+   /*margin-left: auto;
+   margin-right: auto;*/
    width: 75%;
    }
 </style>
