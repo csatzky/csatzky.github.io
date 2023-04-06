@@ -68,7 +68,7 @@ _A Strong Bearish XAG/USD Case:_
 * _A continued increase in trust and acceptance in cryptocurrency._"
 
 ---
-
+<!--
 ### Business Venture: Sharelab Limited
 
 <a href="https://pe.sharelab.com/" target="_blank">sharelab.com</a>
@@ -83,13 +83,14 @@ _A Strong Bearish XAG/USD Case:_
 <a href="https://pe.sharelab.com/" target="_blank">
 <img src="https://sharelab.com/static/svg/sharelab_logo.svg" alt="sharelab.com" class="center75">
 </a>
-<!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> -->
+<!-- <img src="https://sharelab.com/static/svg/sharelab_logo.svg"/> --><!--
 
 Founder, Developer
 
 Sharelab is a platform to analyze and compare US equities in terms of academically-researched firm characteristics. _Access from desktop computers only._
 
 ---
+-->
 
 ### Forecasting EUR/USD Volatility Using Supervised Learning
 
