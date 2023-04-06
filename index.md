@@ -1,14 +1,12 @@
 ## Project Summaries
 
-### QSheets I/O—Comparable Company Measures with Nasdaq-100 Percentiles (Web App)
+---
+
+### QSheets I/O: Comparable Company Measures with Nasdaq-100 Percentiles (Web App)
 
 — 2022-2023, <a href="https://qsheets.io/" target="_blank">QSheets.io</a>.
 
 QSheets I/O is a platform to generate most-recent US public equity PDF reports, summarizing comparable company fundamentals along with Nasdaq-100 percentiles.
-
-***Technologies***
-* HTML, CSS, JavaScript
-* R and RShiny
 
 <style>
 .center75 {
@@ -21,6 +19,10 @@ QSheets I/O is a platform to generate most-recent US public equity PDF reports, 
 <a href="https://qsheets.io/" target="_blank">
 <img src="https://sharelab.shinyapps.io/qsheets/_w_fd12a035/qsheets-logo.svg" alt="qsheets.io" class="center75">
 </a>
+
+***Technologies***
+* HTML, CSS, JavaScript
+* R and RShiny
 
 Founder, Developer
 
