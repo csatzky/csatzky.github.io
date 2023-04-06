@@ -67,7 +67,7 @@ _In general, the cumulative average transformation (...) in the Asian option’s
 
 ---
 
-### Silver Commodity Market-Timing–A Simple Macroeconomic Model
+### Silver Commodity Market-Timing—A Simple Macroeconomic Model
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
