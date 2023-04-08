@@ -130,10 +130,10 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 
 "When it comes to predicting financial volatility,
 
-1. During 'normal' times, the support vector machine algorithm with linear kernel outperforms all other considered methods. This is confirmed by two out-of-sample datasets: The `test` set and the `validation` set's pre-crisis period;
-2. During periods of market turmoil, the gradient boosted tree algorithm outperforms all other considered methods. This is confirmed by the complete `validation` set which is heavily impacted by turbulence surrounding the Covid-19 pandemic.
+1. During 'normal' times, the support vector machine algorithm with linear kernel outperforms all other considered methods. This is confirmed by two out-of-sample datasets (...)<!-- : The `test` set and the `validation` set's pre-crisis period -->;
+2. During periods of market turmoil, the gradient boosted tree algorithm outperforms all other considered methods. This is confirmed by the complete validation <!--`validation`--> set which is heavily impacted by turbulence surrounding the Covid-19 pandemic.
 
-The self-developed linear weekday effect model improves over the HAR-RV model by Corsi (2009). It performs second best during 'normal' and 'crisis' times, respectively. The absence of any tuning parameters and the apparent robustness across market conditions makes this model a well-suited candidate for applications in practice.
+The self-developed linear weekday effect model improves over the HAR-RV model by Corsi (2009). It performs second best during 'normal' and 'crisis' times, respectively. *The absence of any tuning parameters and the apparent robustness across market conditions makes this model a well-suited candidate for applications in practice.*
 
 Noteworthy, in the appendix, it is found that the industry-prevalent GARCH(1,1) model is outperformed by all models considered."
 
