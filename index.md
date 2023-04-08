@@ -139,4 +139,5 @@ Noteworthy, in the appendix, it is found that the industry-prevalent GARCH(1,1) 
 
 ---
 
-<p style="font-size:1rem; font-weight: bold; color: #393939;">Contact: <a href="mailto:c.satzky@gmail.com">c.satzky@gmail.com</a></p>
+**Contact:** <a href="mailto:c.satzky@gmail.com">C.Satzky@gmail.com</a>.
+<!-- <p style="font-size:1rem; font-weight: bold; color: #393939;">Contact: <a href="mailto:c.satzky@gmail.com">c.satzky@gmail.com</a></p> -->
