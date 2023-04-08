@@ -4,7 +4,7 @@
 
 ### QSheets I/O: Comparable Company Fundamentals with Nasdaq-100 Percentiles (Web App)
 
-— 2022-2023, <a href="https://qsheets.io/" target="_blank">QSheets.io</a>.
+— 2023, <a href="https://qsheets.io/" target="_blank">QSheets.io</a>.
 
 <style>
 .center75 {
