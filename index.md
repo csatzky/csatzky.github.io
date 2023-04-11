@@ -32,7 +32,7 @@ Founder, Developer
 
 — 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
 
-<img src="images/simulating-stock-prices-plot.png?raw=true" class="center"/>
+<img src="images/simulated-stock-prices-Asian-options.png?raw=true" class="center"/>
 
 **Conclusion** (excerpt, p. 18):
 
