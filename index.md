@@ -41,7 +41,8 @@ Founder, Developer
 1. Usage of vectorization, and
 2. Recycling of the simulated geometric Brownian motion paths.
 
-In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise."
+In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise. (...) [The] Asian option’s delta (...) inevitably approaches zero over time, as the underlying’s
+future prices have continuously less impact on the option’s pay-off."
 
 ---
 
