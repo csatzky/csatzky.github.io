@@ -72,7 +72,7 @@ Noteworthy, there is some, but insignificant evidence in support of the low Prof
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-market-timing-regression-results.png?raw=true"/>
+<img src="images/silver-paper-regression-results.svg?raw=true"/>
 
 In this article, I develop a macroeconomic 'fair-value' indicator for the silver spot price.
 
