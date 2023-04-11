@@ -46,7 +46,7 @@ future prices have continuously less impact on the option’s pay-off."
 
 ---
 
-### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500<sup>&reg;</sup> Constituents from 2010–2020
+### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500 Constituents from 2010–2020
 
 — 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/cfe7dc0bd5d7cf46443e1ad11f913fc7f44d3abb/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
 
@@ -54,14 +54,14 @@ future prices have continuously less impact on the option’s pay-off."
 
 **Abstract** (excerpt, p. 3):
 
-"In this study, I am deriving explicit and implicit investment hypotheses from the Capital Asset Pricing Model (Sharpe, 1964), the Fama and French 5 Factor Model (Fama and French, 1993), and common price multiples. I empirically investigate the credibility of these investment beliefs using data from S&P 500® constituents from January 2010 to December 2020. The significance of each investment hypothesis is assessed by two methods of statistical evaluation."
+"In this study, I am deriving explicit and implicit investment hypotheses from the Capital Asset Pricing Model (Sharpe, 1964), the Fama and French 5 Factor Model (Fama and French, 1993), and common price multiples. I empirically investigate the credibility of these investment beliefs using data from S&P 500 constituents from January 2010 to December 2020. The significance of each investment hypothesis is assessed by two methods of statistical evaluation."
 
 **Conclusion** (excerpt, p. 32):
 
-"(...) This research found credible statistical evidence in support of the “high GrowthSpread® outperforms low GrowthSpread®”-hypothesis. There is no statistical evidence in favor of any of the remaining eight hypotheses under investigation. When it comes to one-directional portfolios, I found evidence in support of the following statements:
+"(...) This research found credible statistical evidence in support of the “high GrowthSpread<sup>&reg;</sup> outperforms low GrowthSpread<sup>&reg;</sup>”-hypothesis. There is no statistical evidence in favor of any of the remaining eight hypotheses under investigation. When it comes to one-directional portfolios, I found evidence in support of the following statements:
 
-1. The high GrowthSpread® portfolio significantly outperforms portfolios drawn at random;
-2. The low GrowthSpread® portfolio significantly underperforms portfolios drawn at random;
+1. The high GrowthSpread<sup>&reg;</sup> portfolio significantly outperforms portfolios drawn at random;
+2. The low GrowthSpread<sup>&reg;</sup> portfolio significantly underperforms portfolios drawn at random;
 3. The low Price-to-Cash Flow portfolio significantly underperforms portfolios drawn at random.
 
 Noteworthy, there is some, but insignificant evidence in support of the low Profitability, high Profitability, small Size, and low Beta portfolios."
