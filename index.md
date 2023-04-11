@@ -28,6 +28,23 @@ Founder, Developer
 
 ---
 
+### Asian and European Option Specifics–Pricing, Estimation, and Comparison in R
+
+— 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
+
+<img src="images/simulating-stock-prices-plot.png?raw=true" class="center"/>
+
+**Conclusion** (excerpt, p. 18):
+
+"In this paper, I propose methods to estimate vanilla and exotic options’ prices and probability of exercise using Monte Carlo simulation in R. The computational efficiency of these methods relies on;
+
+1. Usage of vectorization, and
+2. Recycling of the simulated geometric Brownian motion paths.
+
+In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise."
+
+---
+
 ### Model Implied Asset Pricing Beliefs: An Empirical Analysis for S&P 500® Constituents from 2010–2020
 
 — 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/cfe7dc0bd5d7cf46443e1ad11f913fc7f44d3abb/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
@@ -47,23 +64,6 @@ Founder, Developer
 3. The low Price-to-Cash Flow portfolio significantly underperforms portfolios drawn at random.
 
 Noteworthy, there is some, but insignificant evidence in support of the low Profitability, high Profitability, small Size, and low Beta portfolios."
-
----
-
-### Asian and European Option Specifics–Pricing, Estimation, and Comparison in R
-
-— 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
-
-<img src="images/simulating-stock-prices-plot.png?raw=true" class="center"/>
-
-**Conclusion** (excerpt, p. 18):
-
-"In this paper, I propose methods to estimate vanilla and exotic options’ prices and probability of exercise using Monte Carlo simulation in R. The computational efficiency of these methods relies on;
-
-1. Usage of vectorization, and
-2. Recycling of the simulated geometric Brownian motion paths.
-
-In general, the cumulative average transformation (...) in the Asian option’s pay-off greatly reduces uncertainty as time goes by. This leads to lower variability in the option's price, delta, and probability of exercise."
 
 ---
 
