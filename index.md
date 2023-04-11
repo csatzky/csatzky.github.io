@@ -7,15 +7,24 @@
 — 2023, <a href="https://qsheets.io/" target="_blank">QSheets.io</a>.
 
 <style>
-.center75 {
+.left50 {
    display: block;
    /*margin-left: auto;
    margin-right: auto;*/
    width: 50%;
    }
 </style>
+<style>
+.left80 {
+   display: block;
+   /*margin-left: auto;
+   margin-right: auto;*/
+   width: 80%;
+   }
+</style>
+
 <a href="https://qsheets.io/" target="_blank">
-<img src="https://sharelab.shinyapps.io/qsheets/_w_fd12a035/qsheets-logo.svg" alt="qsheets.io" class="center75">
+<img src="https://sharelab.shinyapps.io/qsheets/_w_fd12a035/qsheets-logo.svg" alt="qsheets.io" class="left50">
 </a>
 
 QSheets I/O is a platform to generate PDF reports for US public equities, summarizing current and historical company fundamentals. As a benchmark, each company measure is accompanied by the point-in-time percentile rank with respect to Nasdaq-100 constituents. 
@@ -50,7 +59,7 @@ future prices have continuously less impact on the option’s pay-off."
 
 — 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/cfe7dc0bd5d7cf46443e1ad11f913fc7f44d3abb/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
 
-<img src="images/beta-portfolios-performance-plot.png?raw=true" alt="Beta Portfolios Performance Plot" class="center75"/>
+<img src="images/beta-portfolios-performance-plot.png?raw=true" alt="Beta Portfolios Performance Plot"/>
 
 **Abstract** (excerpt, p. 3):
 
@@ -72,7 +81,7 @@ Noteworthy, there is some, but insignificant evidence in support of the low Prof
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-paper-regression-results.svg?raw=true" alt="Silver Pricing Model Regression Results" class="center75"/>
+<img src="images/silver-paper-regression-results.svg?raw=true" alt="Silver Pricing Model Regression Results" class="left80"/>
 
 In this article, I develop a macroeconomic 'fair-value' indicator for the silver spot price.
 
