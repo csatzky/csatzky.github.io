@@ -32,7 +32,7 @@ Founder, Developer
 
 — 2021, [PDF version](https://github.com/csatzky/asian-option-pricing-in-r/raw/main/vanilla-and-exotic-option-pricing.pdf), <a href="https://github.com/csatzky/asian-option-pricing-in-r" target="_blank">GitHub repository</a>.
 
-<img src="images/simulated-stock-prices-Asian-options.png?raw=true" class="center"/>
+<img src="images/simulated-stock-prices-Asian-options.png?raw=true" alt="Simulated Asset Prices and Asian Option Dependency"/>
 
 **Conclusion** (excerpt, p. 18):
 
@@ -50,7 +50,7 @@ future prices have continuously less impact on the option’s pay-off."
 
 — 2021, [PDF version](https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs/raw/cfe7dc0bd5d7cf46443e1ad11f913fc7f44d3abb/empirical-analysis-of-model-implied-asset-pricing-beliefs.pdf), <a href="https://github.com/csatzky/empirical-analysis-of-asset-pricing-beliefs" target="_blank">GitHub repository</a>.
 
-<img src="images/beta-portfolios-performance-plot.png?raw=true"/>
+<img src="images/beta-portfolios-performance-plot.png?raw=true" alt="Beta Portfolios Performance Plot" class="center75"/>
 
 **Abstract** (excerpt, p. 3):
 
@@ -68,11 +68,11 @@ Noteworthy, there is some, but insignificant evidence in support of the low Prof
 
 ---
 
-### Silver Commodity Market-Timing—A Simple Macroeconomic Model
+### Silver Commodity Market-Timing—A Simple Macroeconomic Pricing Model
 
 — 2021, [PDF version](https://github.com/csatzky/silver-commodity-market-timing/raw/main/silver-market-timing.pdf), <a href="https://github.com/csatzky/silver-commodity-market-timing" target="_blank">GitHub repository</a>.
 
-<img src="images/silver-paper-regression-results.svg?raw=true"/>
+<img src="images/silver-paper-regression-results.svg?raw=true" alt="Silver Pricing Model Regression Results" class="center75"/>
 
 In this article, I develop a macroeconomic 'fair-value' indicator for the silver spot price.
 
@@ -125,7 +125,7 @@ Sharelab is a platform to analyze and compare US equities in terms of academical
 
 <!--<a href="https://github.com/csatzky/forecasting-realized-volatility-using-supervised-learning/raw/main/forecasting-realized-volatility.pdf" target="_blank">browser link</a> -->
 
-<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true"/>
+<img src="images/forecasting_eurusd_volatility_results_plot.png?raw=true" alt="Volatility Forecasts with Different Supervised Methods"/>
 
 **Conclusion** (excerpt, pp. 19-20):
 
