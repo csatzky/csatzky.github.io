@@ -24,7 +24,7 @@
 </style>
 
 <a href="https://qsheets.io/" target="_blank">
-<img src="https://sharelab.shinyapps.io/qsheets/_w_fd12a035/qsheets-logo.svg" alt="qsheets.io" class="left50">
+<img src="images/qsheets-logo.svg" alt="qsheets.io" class="left50">
 </a>
 
 QSheets I/O is a platform to generate PDF reports for US public equities, summarizing current and historical company fundamentals. As a benchmark, each company measure is accompanied by the point-in-time percentile rank with respect to Nasdaq-100 constituents. 
